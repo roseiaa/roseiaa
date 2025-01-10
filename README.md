@@ -1,5 +1,5 @@
 ## Hi, welcome to my profile! 👋
-I'm Roseiaa, but you can call me Luke. I am an upcoming developer passionate about all things code!
+My name is Roseiaa, but you can call me Luke. I am an upcoming developer who is passionate about all things code!
 
 
 ## About Me
@@ -23,14 +23,14 @@ An API developed using Node.js, Express, and PostgreSQL, enabling users to post,
 
 ## Aspirations
 - Developing an advanced AI using Python
-- Creating repsonsive applications with stunning visuals and UX
+- Creating responsive applications with stunning visuals and UX
 
-## Lets Connect!! 
+## Let's Connect!! 
 [LinkedIn](https://www.linkedin.com/in/luke-robinson-263070213/)
 
 ## Fun Facts!
 - I am a huge lover of sci-fi, fantasy and thriller content
-- I enjoy breaking down and solving complex problems, makes it feel like I am solving a mystery
+- I enjoy breaking down and solving complex problems, it makes it feel like I am solving a mystery
 <!--
 **roseiaa/roseiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
