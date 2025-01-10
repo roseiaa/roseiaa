@@ -12,6 +12,9 @@ My name is Roseiaa, but you can call me Luke. I am an upcoming developer who is 
 - **Front-end**: React, Tailwind, React Native, Bootstrap
 - **Back-end**: SQL, PostgreSQL (PSQL), Node.js, Express.js, Firebase
 - **Tools**: Git, Github, VSCode, Pycharm
+- **Hosting**: Netlify, Supabase, Render
+- **Other**: Paired Programming, Agile, SCRUM 
+
 
 
 ## Projects
