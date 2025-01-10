@@ -1,5 +1,36 @@
-## Hi there 👋
+## Hi, welcome to my profile! 👋
+I'm Roseiaa, but you can call me Luke. I am an upcoming developer passionate about all things code!
 
+
+## About Me
+- I'm currently working on my final project at Northcoders
+- In my free time I am learning Firebase, Typescript and Python.
+
+## Technical Skills
+- **Languages**:  JavaScript (Node.js), HTML, CSS, Python, Typescript
+- **Testing**: TDD (Test Driven Development), Jest
+- **Front-end**: React, Tailwind, React Native, Bootstrap
+- **Back-end**: SQL, PostgreSQL (PSQL), Node.js, Express.js, Firebase
+- **Tools**: Git, Github, VSCode, Pycharm
+
+
+## Projects
+[NC News API](https://github.com/roseiaa/nc-news/blob/main/README.md)
+An API developed using Node.js, Express, and PostgreSQL, enabling users to post, view, and delete articles and comments. Designed to focus on performance and reliability, this API was thoroughly tested using Test-Driven Development (TDD) to ensure stability and consistency.
+
+[NC News Frontend](https://github.com/roseiaa/project-week-fe/blob/main/README.md)
+An API developed using Node.js, Express, and PostgreSQL, enabling users to post, view, and delete articles and comments. Designed to focus on performance and reliability, this API was thoroughly tested using Test-Driven Development (TDD) to ensure stability and consistency.
+
+## Aspirations
+- Developing an advanced AI using Python
+- Creating repsonsive applications with stunning visuals and UX
+
+## Lets Connect!! 
+[LinkedIn](https://www.linkedin.com/in/luke-robinson-263070213/)
+
+## Fun Facts!
+- I am a huge lover of sci-fi, fantasy and thriller content
+- I enjoy breaking down and solving complex problems, makes it feel like I am solving a mystery
 <!--
 **roseiaa/roseiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
