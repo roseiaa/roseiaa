@@ -17,11 +17,12 @@ My name is Roseiaa, but you can call me Luke. I am an upcoming developer who is 
 
 
 ## Projects
-[NC News API](https://github.com/roseiaa/nc-news/blob/main/README.md)
-An API developed using Node.js, Express, and PostgreSQL, enabling users to post, view, and delete articles and comments. Designed to focus on performance and reliability, this API was thoroughly tested using Test-Driven Development (TDD) to ensure stability and consistency.
+[Product Shop App](https://github.com/roseiaa/product-shop/blob/main/README.md)
+This application allows users to add, delete and update different products on a shopping interface. The app responds in real time, making the user experience more seamless. This project was developed using JavaScript, with MongoDB and React. The project aim was to use these technologies to make a seamless user interface, whilst developing my knowledge on MongoDB and React.
 
-[NC News Frontend](https://github.com/roseiaa/project-week-fe/blob/main/README.md)
-An API developed using Node.js, Express, and PostgreSQL, enabling users to post, view, and delete articles and comments. Designed to focus on performance and reliability, this API was thoroughly tested using Test-Driven Development (TDD) to ensure stability and consistency.
+
+[Giggl (Real-time Chat Application)](https://github.com/roseiaa/Giggl/blob/main/README.md )
+Giggl is a real-time chat app, similar to WhatsApp, that allows users to send messages/images to each other. It allows users to filter by online users, change the theme of the application, and has built-in authentication for security. This project was developed using JavaScript, with React for the frontend, MongoDB for the backend, and Socket.io for the real-time features. 
 
 ## Aspirations
 - Developing an advanced AI using Python
