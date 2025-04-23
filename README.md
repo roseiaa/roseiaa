@@ -3,18 +3,17 @@ My name is Roseiaa, but you can call me Luke. I am an upcoming developer who is 
 
 
 ## About Me
-- I'm currently working on my final project at Northcoders
-- In my free time I am learning Firebase, Typescript and Python.
+- I'm currently working on a social media application.
+- In my free time I am learning Typescript and Python.
 
 ## Technical Skills
 - **Languages**:  JavaScript (Node.js), HTML, CSS, Python, Typescript
 - **Testing**: TDD (Test Driven Development), Jest
-- **Front-end**: React, Tailwind, React Native, Bootstrap
-- **Back-end**: SQL, PostgreSQL (PSQL), Node.js, Express.js, Firebase
+- **Front-end**: React, Tailwind, React Native, Bootstrap, Next
+- **Back-end**: SQL, PostgreSQL (PSQL), Node.js, Express.js, Firebase, MongoDB
 - **Tools**: Git, Github, VSCode, Pycharm
 - **Hosting**: Netlify, Supabase, Render
 - **Other**: Paired Programming, Agile, SCRUM 
-
 
 
 ## Projects
